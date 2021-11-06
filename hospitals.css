@@ -1,0 +1,16 @@
+#main_content{
+    margin: 2% 5%;
+    color: firebrick;
+}
+.card-text{
+    margin-bottom: 0%;
+}
+.card-title{
+    margin-bottom: 5%;
+}
+.card-img-top{
+    height: 150px;
+}
+.btn{
+    margin-bottom: 3%;
+}
